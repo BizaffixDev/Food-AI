@@ -2,15 +2,18 @@
 
 food recommendation app
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/BizaffixDev/Food-AI/assets/152413642/5899508f-e321-40e6-ac1f-18d35cbb5650)   ![image](https://github.com/BizaffixDev/Food-AI/assets/152413642/86a2005d-067f-44f0-b5c7-a3db1a4a1992)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+![image](https://github.com/BizaffixDev/Food-AI/assets/152413642/de9f034f-eee0-4b18-9101-af2ee39d11c6)    ![image](https://github.com/BizaffixDev/Food-AI/assets/152413642/5d34efdf-b3e9-4a51-bdf0-a1a547101146)
+
+
+
+
+
